@@ -6,7 +6,7 @@ Adding Records, Editing Records, and Deleting Records with Confirmation.
 ## Preparation
 
 First, make sure to run ```npm install``` and then run ```npm run dev```, then type ```o``` character on the terminal
-to open.
+to open it in browser.
 
 ## Module Explanation
 
@@ -39,4 +39,5 @@ to open.
 <h3>Data can be added by using this form page:</h3>
 
 <img width="1440" height="760" alt="Screenshot 2026-03-03 at 11 36 33 PM" src="https://github.com/user-attachments/assets/5e78a736-7b93-4e4f-a792-a72048e47ee9" />
+
 
